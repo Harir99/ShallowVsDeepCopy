@@ -7,7 +7,7 @@ Harir Al-Rubaye
 
 INTRODUCTION
 ------------
-a2_q1 is a program that swaps rows and columns, while a2_q2 is a program that builds up on a2_q2 and contains shallow, and deep copy.
+a2_q1 is a program that swaps rows and columns, while a2_q2 is a program that builds up on a2_q1 and contains shallow, and deep copy.
 Note: I made a header file called a2.h
 
 Q1A
